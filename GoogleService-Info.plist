@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDZkg27cIBGaM6_UPdNalRQ1uxRdMAm1jA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696848033803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Grocery-List</string>
+	<key>PROJECT_ID</key>
+	<string>grocery-list-app-cb892</string>
+	<key>STORAGE_BUCKET</key>
+	<string>grocery-list-app-cb892.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696848033803:ios:2af2f477d5633814f5bf0e</string>
+	<key>DATABASE_URL</key>
+	<string>https://grocery-list-app-cb892-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
